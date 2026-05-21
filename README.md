@@ -18,7 +18,7 @@ JapanTour/
 └── vercel.json
 ```
 
-## Local development
+## Local developmenta
 
 ```bash
 npm install
